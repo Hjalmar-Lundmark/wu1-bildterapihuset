@@ -64,3 +64,16 @@ img{
     display: flex;
     justify-content: center;
 }
+
+.personal{
+    display: flex;
+}
+
+.personal-bild{
+    margin: 15px;
+    width: 140%;
+}
+
+iframe{
+    max-width: 100%;
+}
