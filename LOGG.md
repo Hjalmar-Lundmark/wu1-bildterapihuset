@@ -1,7 +1,9 @@
 # Planering
 
 
-https://www.figma.com/file/54PT8Iqh38wlovgXXUS5Gj/Bildterapihuset-desktop?node-id=0%3A1 
+Figma link(desktop): https://www.figma.com/file/54PT8Iqh38wlovgXXUS5Gj/Bildterapihuset-desktop?node-id=0%3A1 
+
+Figma link(mobil): https://www.figma.com/file/hFYI0heHuwlAG7fXDSRPMH/Bildterapihuset-mobil 
 
 20/1: Började jobba, skapa filer och börja märka upp. 
 
@@ -17,4 +19,4 @@ Kvar att göra:
 2. Hamburgermeny???
 
 
-24/2: 
+24/2: Jobbat med media queries, 
