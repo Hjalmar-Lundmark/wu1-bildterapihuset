@@ -19,4 +19,4 @@ Kvar att göra:
 2. Hamburgermeny???
 
 
-24/2: Jobbat med media queries, 
+24/2: Jobbat med media queries mest, lite fixande i validator. Jag kanske har stryckt idén hamburgermenyn men jag vet inte. 

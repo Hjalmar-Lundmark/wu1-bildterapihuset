@@ -5,6 +5,7 @@ body {
 html, body {
     height: 100%;
     width: 100%;
+    font-family: 'Roboto', sans-serif;
 }
 
 nav {
@@ -49,11 +50,6 @@ h1 {
     h1{
         font-size: 1.5em;
     }
-    .container{
-        display: block;
-        padding-left: 10%;
-        padding-right: 10%;
-    }
 }
 
 img{
@@ -68,10 +64,18 @@ img{
 }
 
 .navlink {
-    width: 40%;
+    width: 50%;
 }
 
-@media (max-width:576px) {
+@media (max-width:768px) {
+    .navigation{
+        justify-content: space-between;
+    }
+    .container{
+        display: block;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
     .navlink{
         width: 100%;
     }
@@ -80,7 +84,7 @@ img{
 .bokningsruta {
     text-decoration: underline;
     background-color: lightgray;
-    border: 1px black solid;
+    border: 1px black solid ;
     width: 100%;
 }
 
@@ -103,6 +107,12 @@ img{
     margin: 15px;
     width: 100%;
     max-width: 100%;
+}
+
+@media (max-width:576px){
+    .personal-bild{
+        margin: 0;
+    }
 }
 
 iframe{
