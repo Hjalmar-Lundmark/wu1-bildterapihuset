@@ -71,6 +71,10 @@ img{
     .navlink{
         width: 100%;
     }
+    main{
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
 }
 
 .bokningsruta {

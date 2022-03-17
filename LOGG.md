@@ -23,4 +23,4 @@ Kvar att göra:
 
 3/3: Skrev PM. 
 
-17/3: Från feedback så ersatte jag mått som var i procent till rem på några ställen. 
+17/3: Från feedback ersatte jag mått som var i procent till rem på några ställen. 
