@@ -11,19 +11,11 @@ html, body {
 nav {
     background-color: #66daff;
     width: 100%;
-    min-height: 10%;
 }
 
 main {
     padding-left: 15%;
     padding-right: 15%;
-}
-
-@media (max-width:576px) {
-    main{
-        padding-left: 5%;
-        padding-right: 5%;
-    }
 }
 
 .container {
@@ -73,8 +65,8 @@ img{
     }
     .container{
         display: block;
-        padding-left: 10%;
-        padding-right: 10%;
+        padding-left: 5rem;
+        padding-right: 5rem;
     }
     .navlink{
         width: 100%;
@@ -117,4 +109,16 @@ img{
 
 iframe{
     max-width: 100%;
+}
+
+@media (max-width:576px) {
+    main{
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+    }
+    .container{
+        display: block;
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+    }
 }

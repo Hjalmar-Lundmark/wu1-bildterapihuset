@@ -22,3 +22,5 @@ Kvar att göra:
 24/2: Jobbat med media queries mest, lite fixande i validator. Jag kanske har stryckt idén hamburgermenyn men jag vet inte. 
 
 3/3: Skrev PM. 
+
+17/3: Från feedback så ersatte jag mått som var i procent till rem på några ställen. 
