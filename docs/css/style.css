@@ -126,3 +126,7 @@ iframe{
         padding-right: 2.5rem;
     }
 }
+
+a {
+    text-decoration: none;
+}
